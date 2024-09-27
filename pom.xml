@@ -16,8 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>java-web-project</finalName>
-    <build>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -26,6 +24,5 @@
       </plugin>
     </plugins>
     <finalName>java-web-project</finalName>
-  </build>
   </build>
 </project>
